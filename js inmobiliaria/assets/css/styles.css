@@ -1,12 +1,12 @@
 .main-section {
-    background-image: url('../img/img-main.jpeg');
-    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-image: url('assets\img\img-main.jpeg');
+    background-size: cover;
     background-position: center;
     height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #ffff;
     text-align: center;
 }
 
